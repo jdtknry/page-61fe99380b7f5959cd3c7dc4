@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://cn.shltp.cn/sitemap.xml
